@@ -31,12 +31,6 @@
       "revoked": true
     },
     {
-      "key": "ae036737d28103d9010ecf8164f2bf91",
-      "expires_at": 1767481335,
-      "additional": "giveaway",
-      "revoked": false
-    },
-    {
       "key": "7ec320dafd50f4f546380d0d94d07723",
       "expires_at": 1767481335,
       "additional": "giveaway",
