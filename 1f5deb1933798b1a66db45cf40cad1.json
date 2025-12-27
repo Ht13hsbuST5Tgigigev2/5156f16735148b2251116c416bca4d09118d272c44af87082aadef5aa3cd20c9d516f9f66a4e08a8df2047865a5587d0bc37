@@ -1,3 +1,34 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "d723d3e1260e0041e4383bba27313f59",
+      "expires_at": 1767481334,
+      "additional": "giveaway",
+      "revoked": false
+    },
+    {
+      "key": "8a031c2cf1c385eb5db1fb43cc5c936b",
+      "expires_at": 1767481334,
+      "additional": "giveaway",
+      "revoked": false
+    },
+    {
+      "key": "d561a88b2f4d1d379f40336178ff43a7",
+      "expires_at": 1767481334,
+      "additional": "giveaway",
+      "revoked": false
+    },
+    {
+      "key": "5da83037530ef0fc5dcfef82c3bce77f",
+      "expires_at": 1767481334,
+      "additional": "giveaway",
+      "revoked": false
+    },
+    {
+      "key": "6479cb202ac6cf38a1b9d4926ad19f73",
+      "expires_at": 1767481334,
+      "additional": "giveaway",
+      "revoked": false
+    }
+  ]
 }
