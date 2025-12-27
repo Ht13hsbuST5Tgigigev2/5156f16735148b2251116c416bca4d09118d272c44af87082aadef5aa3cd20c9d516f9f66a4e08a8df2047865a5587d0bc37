@@ -34,7 +34,7 @@
       "key": "68ca32ff982c51a6e3e7f94b4fe37515",
       "expires_at": 1767481335,
       "additional": "giveaway",
-      "revoked": false
+      "revoked": true
     },
     {
       "key": "ae036737d28103d9010ecf8164f2bf91",
