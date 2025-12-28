@@ -1,3 +1,10 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "828bd269702800ea33f234a1a5c720b6",
+      "expires_at": 1772740350,
+      "additional": "aqri",
+      "revoked": false
+    }
+  ]
 }
